@@ -1,7 +1,7 @@
 # Análise de Dados Aplicada a Recursos Humanos
  
 ## Definição do Problema
-Uma empresa de consultoria busca Cientistas de Dados com qualificações em treinamentos ministrados pela própria empresa. Muitos profissionais realizam os treinamentos. O objetivo da empresa é identificar candidatos com perfil adequado e realmente interessados em trabalhar para ela ao concluírem os treinamentos, a fim de reduzir custos ao melhorar o processo de contratação e a qualidade de seus treinamentos. 
+Uma empresa de consultoria busca Cientistas de Dados com qualificações em treinamentos ministrados por ela. Muitos profissionais realizam os treinamentos. O objetivo da empresa é identificar candidatos com perfil adequado e realmente interessados em trabalhar para ela ao concluírem os treinamentos, a fim de reduzir custos ao melhorar o processo de contratação e a qualidade de seus treinamentos. 
 
 ## Objetivo da Análise
 Realizar um extenso trabalho de análise nos dados, compreender como estão organizados, realizar limpeza e transformação dos dados conforme necessário, detectar eventuais padrões e diagnósticos e ao final emitir um parecer com um resumo sobre os dados.
